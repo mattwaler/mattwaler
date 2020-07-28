@@ -1,17 +1,14 @@
-# The most easy-going web developer you'll ever meet.
+# 👋🏼 Why hello there, I'm Matt.
 
-I design, develop, deploy, and teach all things modern web development. I also love playing Tennis and lifting weights.
+[Hero banner gallery](/banner.jpg)
 
-## My Skills
+I am a fullstack developer from Ohio. I specialize in the latest and greatest frontend frameworks like React, Vue, and Svelte. I am a firm believer that simple, pragmatic, and readable code is far superior to complex abstractions and over-engineering.
 
-### Frontend Development
+Ask me about my Eleventy, TailwindCSS, and AlpineJS addictions.
 
-My biggest strength is turning static mockups and designs into fully responsive codebases. I am proficient in the latest and greatest frontend frameworks like React, Vue, Svelte, and TailwindCSS.
+## 👨🏻‍💻Online Presence
 
-### Backend Development
-
-I can build full-blown traditional content management systems with Craft CMS, or headless APIs for accessing and consuming data with Node and GraphQL.
-
-### Accessibility
-
-I am constantly making sure the code I produce is WCAG compliant and accessible to all users, regardless of their disabilities. Nobody should have a poor experience when it comes to the web.
+- My ever-evolving [personal website](https://mattwaler.com) 🌏
+- Writing posts & comments on [dev](https://dev.to) 📝
+- Trying to act professional on [linkedin](https://www.linkedin.com/in/mattwaler/) 👨🏻‍💼
+- Posting to my story on [instagram](https://www.instagram.com/mattwaler/) 📷
