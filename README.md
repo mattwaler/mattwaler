@@ -9,6 +9,6 @@ Ask me about my Eleventy, TailwindCSS, and AlpineJS addictions.
 ## 👨🏻‍💻Online Presence
 
 - My ever-evolving [personal website](https://mattwaler.com) 🌏
-- Writing posts & comments on [dev](https://dev.to) 📝
+- Writing posts & comments on [dev](https://dev.to/mattwaler) 📝
 - Trying to act professional on [linkedin](https://www.linkedin.com/in/mattwaler/) 👨🏻‍💼
 - Posting to my story on [instagram](https://www.instagram.com/mattwaler/) 📷
