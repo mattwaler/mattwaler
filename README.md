@@ -1,6 +1,6 @@
-# 👋🏼 Why hello there, I'm Matt.
+# 👋🏼 Hello there! My name is Matt.
 
-![Hero banner gallery](/banner.jpg)
+![Hero banner](https://raw.githubusercontent.com/mattwaler/mattwaler/master/banner.jpg)
 
 I am a fullstack developer from Ohio. I specialize in the latest and greatest frontend frameworks like React, Vue, and Svelte. I am a firm believer that simple, pragmatic, and readable code is far superior to complex abstractions and over-engineering.
 
