@@ -1,11 +1,31 @@
-# 👋🏼 Hello there! My name is Matt.
+# 👋🏼 Hello! I'm Matt Waler.
 
-I am a fullstack developer from Ohio. I specialize in the latest and greatest frontend frameworks like Node, React, and Alpine. I also dabble with fullstack projects like Craft CMS and Statamic. I am a firm believer that simple, pragmatic, and readable code is far superior to complex abstractions and over-engineering.
+I am a frontend-focused developer from Ohio. I graduated from Ohio University in 2016 and I've been developing ever since. I am a firm believer that simple, pragmatic, and readable code is far superior to complex abstractions. 
 
-Ask me anything about my Tennis, Chess, and Tailwind CSS addictions.
+## 🛠 Skills 
 
-## 👨🏻‍💻 Online Presence
+I am heavily specialized in the following tools:
 
-- My ever-evolving [personal website](https://mattwaler.com) 🌏
-- Trying to act professional on [linkedin](https://www.linkedin.com/in/mattwaler/) 👨🏻‍💼
-- Posting to my story on [instagram](https://www.instagram.com/mattwaler/) 📷
+- React
+- Next.js
+- Craft CMS
+- TailwindCSS
+- Alpine.js
+
+## 😊 Hobbies
+
+If I'm not writing code here, you'll most likely find me:
+
+- 🎾 Playing Tennis
+- 🧩 Practicing puzzles on Chess.com
+- 🏋🏻‍♂️ Squeezing in a quick lifting session
+- 🎧 Searching for new pop music
+
+
+## 👨🏻‍💻 Find Me Online
+
+If you still haven't found me, your best bet is to look me up on the following platforms:
+
+- 🌐 My ever-evolving [personal website](https://mattwaler.com) 
+- 👨🏻‍💼 Trying to act professional on [linkedin](https://www.linkedin.com/in/mattwaler/)
+- 📷 Posting to my story on [instagram](https://www.instagram.com/mattwaler/) 
