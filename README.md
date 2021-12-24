@@ -17,7 +17,7 @@ I specialize in the following tools:
 If I'm not writing code here, you'll most likely find me:
 
 - Playing Tennis
-- Practicing puzzles on [Chess.com](https://chess.com)
+- Practicing on [Chess.com](https://www.chess.com/member/w4ler)
 - Squeezing in a quick lifting session
 - Searching for new pop music
 
