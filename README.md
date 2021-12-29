@@ -6,11 +6,11 @@ I am a frontend-focused developer from Ohio. I graduated from Ohio University in
 
 I specialize in the following tools:
 
-- [React](https://reactjs.org/)
-- [Next.js](https://nextjs.org/)
-- [TailwindCSS](https://tailwindcss.com/)
-- [Craft CMS](https://craftcms.com/)
 - [Alpine.js](https://alpinejs.dev/)
+- [Craft CMS](https://craftcms.com/)
+- [Next.js](https://nextjs.org/)
+- [React](https://reactjs.org/)
+- [TailwindCSS](https://tailwindcss.com/)
 
 ## 😊 Hobbies
 
