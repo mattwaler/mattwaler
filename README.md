@@ -12,7 +12,7 @@ I specialize in the following tools:
 - [React](https://reactjs.org/)
 - [TailwindCSS](https://tailwindcss.com/)
 
-## 😊 Hobbies
+## 🎾 Hobbies
 
 If I'm not writing code here, you'll most likely find me:
 
@@ -21,7 +21,7 @@ If I'm not writing code here, you'll most likely find me:
 - Squeezing in a quick lifting session
 - Searching for new pop music
 
-## 👨🏻‍💻 Find Me Online
+## 🌐 Find Me Online
 
 If you still haven't found me, your best bet is to look me up on the following platforms:
 
