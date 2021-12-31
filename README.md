@@ -18,9 +18,10 @@ I specialize in the following tools:
 If I'm not writing code here, you'll most likely find me:
 
 - Playing Tennis
-- Practicing on [Chess.com](https://www.chess.com/member/w4ler)
-- Squeezing in a quick lifting session
-- Searching for new pop music
+- Honing my cooking skills
+- Losing games on [Chess.com](https://www.chess.com/member/w4ler)
+- Lifting weights and then dropping them
+- Belting pop music
 
 ## 🌐 Find Me Online
 
