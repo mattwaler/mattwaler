@@ -8,6 +8,7 @@ I specialize in the following tools:
 
 - [Alpine.js](https://alpinejs.dev/)
 - [Craft CMS](https://craftcms.com/)
+- [Eleventy](https://www.11ty.dev)
 - [Next.js](https://nextjs.org/)
 - [React](https://reactjs.org/)
 - [TailwindCSS](https://tailwindcss.com/)
