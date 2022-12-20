@@ -1,6 +1,6 @@
 # 👋🏼 Hello! I'm Matt Waler.
 
-I am a frontend-focused developer from Ohio. I graduated from Ohio University in 2016 and I've been developing ever since. I am a firm believer that simple, pragmatic, and readable code is far superior to complex abstractions. 
+I am a JavaScript-focused developer from Ohio. I am a firm believer that simple, pragmatic, and readable code is far superior to complex abstractions.
 
 ## 🛠 Skills 
 
