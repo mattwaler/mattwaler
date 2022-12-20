@@ -6,12 +6,13 @@ I am a frontend-focused developer from Ohio. I graduated from Ohio University in
 
 I specialize in the following tools:
 
-- [Alpine.js](https://alpinejs.dev/)
-- [Craft CMS](https://craftcms.com/)
-- [Eleventy](https://www.11ty.dev)
-- [Next.js](https://nextjs.org/)
 - [React](https://reactjs.org/)
 - [TailwindCSS](https://tailwindcss.com/)
+- [Next.js](https://nextjs.org/)
+- [Craft CMS](https://craftcms.com/)
+- [React Native](https://reactnative.dev/)
+- [Alpine.js](https://alpinejs.dev/)
+- [Eleventy](https://www.11ty.dev)
 
 ## 🎾 Hobbies
 
