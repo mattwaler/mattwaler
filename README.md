@@ -28,6 +28,6 @@ If I'm not writing code here, you'll most likely find me:
 
 If you still haven't found me, your best bet is to look me up on the following platforms:
 
-- My ever-evolving [personal website](https://mattwaler.com)
+- My ever-evolving [personal website](https://mattwaler.dev)
 - Trying to act professional on [linkedin](https://www.linkedin.com/in/mattwaler/)
 - Posting to my story on [instagram](https://www.instagram.com/mattwaler/)
