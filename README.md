@@ -8,19 +8,21 @@ I specialize in the following tools:
 
 - [React](https://reactjs.org/)
 - [TailwindCSS](https://tailwindcss.com/)
-- [Next.js](https://nextjs.org/)
-- [Craft CMS](https://craftcms.com/)
-- [React Native](https://reactnative.dev/)
 - [Alpine.js](https://alpinejs.dev/)
 - [Eleventy](https://www.11ty.dev)
+- [Statamic](https://statamic.com/)
+- [Craft CMS](https://craftcms.com/)
+- [Next.js](https://nextjs.org/)
+- [Swift](https://www.swift.org/)
+- [React Native](https://reactnative.dev/)
 
 ## 🎾 Hobbies
 
 If I'm not writing code here, you'll most likely find me:
 
 - Playing Tennis
-- Honing my cooking skills
-- Losing games on [Chess.com](https://www.chess.com/member/w4ler)
+- Trying new cooking recipes
+- Losing games of Marvel Snap
 - Lifting weights and then dropping them
 - Belting pop music
 
@@ -28,6 +30,6 @@ If I'm not writing code here, you'll most likely find me:
 
 If you still haven't found me, your best bet is to look me up on the following platforms:
 
-- My ever-evolving [personal website](https://mattwaler.dev)
+- My ever-evolving [personal website](https://mattwaler.com)
 - Trying to act professional on [linkedin](https://www.linkedin.com/in/mattwaler/)
 - Posting to my story on [instagram](https://www.instagram.com/mattwaler/)
