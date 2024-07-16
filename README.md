@@ -9,12 +9,8 @@ I specialize in the following tools:
 - [React](https://reactjs.org/)
 - [TailwindCSS](https://tailwindcss.com/)
 - [Alpine.js](https://alpinejs.dev/)
-- [Eleventy](https://www.11ty.dev)
-- [Statamic](https://statamic.com/)
-- [Craft CMS](https://craftcms.com/)
 - [Next.js](https://nextjs.org/)
 - [Swift](https://www.swift.org/)
-- [React Native](https://reactnative.dev/)
 
 ## 🎾 Hobbies
 
